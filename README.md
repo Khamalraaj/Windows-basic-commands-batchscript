@@ -112,7 +112,7 @@ echo "Hello, $name"
 
 
 ## OUTPUT
-[ia1](./images/a1.png)
+![ia1](./images/a1.png)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -162,7 +162,7 @@ done
 
 ## OUTPUT
 
-[ia2](./images/a2.png)
+![ia2](./images/a2.png)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -184,7 +184,7 @@ read -p "Press Enter to continue..."
 
 ## OUTPUT
 
-[ia3](./images/a3.png)
+![ia3](./images/a3.png)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -210,7 +210,7 @@ read -p "Press Enter to continue..."
 ```
 
 ## OUTPUT
-[ia5](./images/a5png)
+![ia5](./images/a5png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -261,8 +261,8 @@ do
 done
 ```
 ## OUTPUT
-[ia6](./images/a6png)
-[ia7](./images/a7png)
+![ia6](./images/a6png)
+![ia7](./images/a7png)
 
 # RESULT:
 The commands/batch files are executed successfully.
