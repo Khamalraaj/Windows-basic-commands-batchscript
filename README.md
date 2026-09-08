@@ -210,7 +210,7 @@ read -p "Press Enter to continue..."
 ```
 
 ## OUTPUT
-![ia5](./images/a5.png)
+![ia4](./images/a4.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -261,6 +261,8 @@ do
 done
 ```
 ## OUTPUT
+
+![ia5](./images/a5.png)
 ![ia6](./images/a6.png)
 ![ia7](./images/a7.png)
 
